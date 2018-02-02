@@ -7,3 +7,5 @@ Demo of simple flip card and match game with Polyer 3.0 Preview: https://poly-mi
 1. install `nodejs` and `yarn`.
 2. run `yarn start`
 
+## Useful links
+See https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6
